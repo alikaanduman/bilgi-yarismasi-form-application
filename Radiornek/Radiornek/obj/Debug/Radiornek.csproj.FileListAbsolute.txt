@@ -1,0 +1,16 @@
+C:\Users\Ogrenci1\Desktop\8 kasım 2017\Radiornek\Radiornek\bin\Debug\Radiornek.exe.config
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\bin\Debug\Radiornek.exe.config
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\bin\Debug\Radiornek.exe
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\bin\Debug\Radiornek.pdb
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.Form1.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.exe
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.pdb
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.Form2.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.Form3.resources
+C:\Users\Ogrenci1\Desktop\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.Form4.resources
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Ali Kaan Duman 15491\Radiornek\Radiornek\bin\Debug\Radiornek.exe.config
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.exe
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Ali Kaan Duman 15491\Radiornek\Radiornek\obj\Debug\Radiornek.pdb
